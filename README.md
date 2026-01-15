@@ -1,3 +1,10 @@
+# 🎬 Movie Recommendation System
+
+A content-based movie recommendation system built using Python and Streamlit.  
+This application recommends movies based on similarity in genres, cast, crew, and overview.
+
+---
+
 ## 📂 Project Structure
 
 movie_recommendation_system/
